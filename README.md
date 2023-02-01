@@ -40,6 +40,8 @@ This is challenge 11 for the UT Coding Bootcamp: Express.js Note Taker.
 
 Full-Stack Blog - [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
+Starter Code - https://github.com/coding-boot-camp/miniature-eureka 
+
 ## License
 
 Please see LICENSE file.
