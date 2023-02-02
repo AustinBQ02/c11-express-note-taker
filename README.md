@@ -3,12 +3,10 @@ This is challenge 11 for the UT Coding Bootcamp: Express.js Note Taker.
 
 ## Description
 
-> Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:  
->   
-> - What was your motivation?  
-> - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")  
-> - What problem does it solve?  
-> - What did you learn?  
+This project is a Note Taker app built using Express.js and deployed to Heroku in order to better understand how to build out the back end, connect it to the provided front end, and get it all working in a production environment.
+
+Primary lessons learned were that scope still matters and that punctuation can be sneaky.
+  
 
 ## Table of Contents
 
@@ -19,28 +17,33 @@ This is challenge 11 for the UT Coding Bootcamp: Express.js Note Taker.
 
 ## Installation
 
-> What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+The app is deployed here: https://challenged-note-taker.herokuapp.com/
 
 ## Usage
 
-> Provide instructions and examples for use. Include screenshots as needed.
->   
-> To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:  
->   
->   `![alt text](assets/images/screenshot.png)`
+Once you are on the landing page, click "Get Started"
+
+![Landing page with get started button](./public/assets/deployed1.jpg)
+<br>
+
+On the Notes screen, you can click an existing note on the left to display it, or create a new note.
+![Notes page with existing notes on the left](./public/assets/instructions1.jpg)
+<br>
+
+Once you have entered both a TITLE and TEXT for a new note, click the save button.
+![Saving a new note](./public/assets/instructions2.jpg)
+
+
 
 
 ## Credits
 
-> List your collaborators, if any, with links to their GitHub profiles.
-> 
-> If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-> 
-> If you followed tutorials, include links to those here as well.
-
 Full-Stack Blog - [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
 Starter Code - https://github.com/coding-boot-camp/miniature-eureka 
+
+UT Coding Boot Camp - Module 11 _(class repo is private)_
+- https://github.com/the-Coding-Boot-Camp-at-UT
 
 ## License
 
